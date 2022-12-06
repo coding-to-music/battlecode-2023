@@ -39,6 +39,12 @@ https://battlecode.org/
 
 See the schedule  https://battlecode.org/schedule.html
 
+![Battlecode 2022 Gameplay](my_video.mov)
+
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
+
 ## What is Battlecode?
 
 Battlecode is a real-time strategy game, for which you will write an autonomous player. Your player will need to strategically manage a robot army and control how your robots work together to defeat the enemy team. As a contestant, you will learn to use artificial intelligence, pathfinding, distributed algorithms, and communications to make your player as competitive as possible.
