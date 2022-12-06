@@ -41,8 +41,10 @@ See the schedule  https://battlecode.org/schedule.html
 
 ![Battlecode 2022 Gameplay](https://github.com/coding-to-music/battlecode-2023/blob/main/images/game-map.png?raw=true)
 
+### Battlecode 2022 Gameplay
+
 <video width="320" height="240" controls>
-  <source src="https://github.com/coding-to-music/battlecode-2023/blob/main/images/battlecode-22.mp4?raw=true" type="video/mp4">
+  <source src="https://github.com/coding-to-music/battlecode-2023/blob/main/images/battlecode-22.mp4" type="video/mp4">
 </video>
 
 ## What is Battlecode?
